@@ -1,0 +1,8 @@
+../Core/Src/Midi/midi.c:20:9:parse_delay	24	static
+../Core/Src/Midi/midi.c:34:5:parse_meta_event	32	static
+../Core/Src/Midi/midi.c:51:5:parse_midi_event	32	static
+../Core/Src/Midi/midi.c:89:5:parse_track	40	static
+../Core/Src/Midi/midi.c:113:10:get_start	40	static
+../Core/Src/Midi/midi.c:137:5:parse_header	32	static
+../Core/Src/Midi/midi.c:143:6:parse_song	32	static
+../Core/Src/Midi/midi.c:192:6:play_song	72	static

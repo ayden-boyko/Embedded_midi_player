@@ -1,0 +1,3 @@
+../Core/Src/Demos/demo.c:23:13:delay_loop	24	static
+../Core/Src/Demos/demo.c:31:13:demo_of_UART_print	56	static
+../Core/Src/Demos/demo.c:45:6:run_demo	16	static

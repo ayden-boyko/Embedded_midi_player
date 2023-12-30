@@ -1,0 +1,4 @@
+../Core/Src/project.c:36:6:local_echo	16	static
+../Core/Src/project.c:47:6:increment_time	24	static
+../Core/Src/project.c:58:6:runsong	56	static
+../Core/Src/project.c:144:6:play_sound	24	static

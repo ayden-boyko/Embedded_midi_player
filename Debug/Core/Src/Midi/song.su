@@ -1,0 +1,6 @@
+../Core/Src/Midi/song.c:1613:6:get_song	16	static
+../Core/Src/Midi/song.c:1618:6:midi_header	40	static
+../Core/Src/Midi/song.c:1634:12:get_title	72	dynamic
+../Core/Src/Midi/song.c:1661:16:get_copyright	72	dynamic
+../Core/Src/Midi/song.c:1692:12:get_tempo	40	static
+../Core/Src/Midi/song.c:1719:6:midi_track	56	static

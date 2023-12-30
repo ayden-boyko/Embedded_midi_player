@@ -1,0 +1,6 @@
+../Core/Src/Midi/tone.c:49:10:hertz_to_duration	24	static
+../Core/Src/Midi/tone.c:58:10:get_counter	4	static
+../Core/Src/Midi/tone.c:62:6:reset_counter	4	static
+../Core/Src/Midi/tone.c:67:9:add_tone	24	static
+../Core/Src/Midi/tone.c:73:9:remove_tone	16	static
+../Core/Src/Midi/tone.c:83:6:play_tones	24	static
